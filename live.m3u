@@ -1,1 +1,1414 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="TVP HD" tvg-name=" TVP" tvg-logo="https://docdog.top/logo/countries/pl/TVP.png" group-title="OGÓLNOTEMATYCZNE", TVP
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/810
+#EXTINF:-1 tvg-id="TVP 1" tvg-name=" TVP 1" tvg-logo="https://docdog.top/logo/countries/pl/TVP_1.png" group-title="OGÓLNOTEMATYCZNE", TVP 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/811
+#EXTINF:-1 tvg-id="TVP 2" tvg-name=" TVP 2" tvg-logo="https://docdog.top/logo/countries/pl/TVP_2.png" group-title="OGÓLNOTEMATYCZNE", TVP 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/812
+#EXTINF:-1 tvg-id="TVP 3 Warszawa" tvg-name=" TVP 3 WARSZAWA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_WARSZAWA.png" group-title="OGÓLNOTEMATYCZNE", TVP 3 WARSZAWA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/813
+#EXTINF:-1 tvg-id="TVP Info" tvg-name=" TVP INFO" tvg-logo="https://docdog.top/logo/countries/pl/TVP_INFO.png" group-title="OGÓLNOTEMATYCZNE", TVP INFO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/814
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-name=" TVP KULTURA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_KULTURA.png" group-title="OGÓLNOTEMATYCZNE", TVP KULTURA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/815
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name=" TVP ROZRYWKA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_ROZRYWKA.png" group-title="OGÓLNOTEMATYCZNE", TVP ROZRYWKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/816
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name=" TVP SERIALE" tvg-logo="https://docdog.top/logo/countries/pl/TVP_SERIALE.png" group-title="OGÓLNOTEMATYCZNE", TVP SERIALE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/817
+#EXTINF:-1 tvg-id="Polsat" tvg-name=" POLSAT" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT.png" group-title="OGÓLNOTEMATYCZNE", POLSAT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/818
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name=" POLSAT 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_2.png" group-title="OGÓLNOTEMATYCZNE", POLSAT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/819
+#EXTINF:-1 tvg-id="Polsat X" tvg-name=" POLSAT X" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_X.png" group-title="OGÓLNOTEMATYCZNE", POLSAT X
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/820
+#EXTINF:-1 tvg-id="Puls 2" tvg-name=" PULS 2" tvg-logo="https://docdog.top/logo/countries/pl/PULS_2.png" group-title="OGÓLNOTEMATYCZNE", PULS 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/821
+#EXTINF:-1 tvg-id="TV Puls" tvg-name=" TV PULS" tvg-logo="https://docdog.top/logo/countries/pl/TV_PULS.png" group-title="OGÓLNOTEMATYCZNE", TV PULS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/822
+#EXTINF:-1 tvg-id="TV 4" tvg-name=" TV 4" tvg-logo="https://docdog.top/logo/countries/pl/4.png" group-title="OGÓLNOTEMATYCZNE", TV 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/823
+#EXTINF:-1 tvg-id="TV 6" tvg-name=" TV 6" tvg-logo="https://docdog.top/logo/countries/pl/TV6.png" group-title="OGÓLNOTEMATYCZNE", TV 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/824
+#EXTINF:-1 tvg-id="TVN" tvg-name=" TVN" tvg-logo="https://docdog.top/logo/countries/pl/TVN.png" group-title="OGÓLNOTEMATYCZNE", TVN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/825
+#EXTINF:-1 tvg-id="TVN 7" tvg-name=" TVN 7" tvg-logo="https://docdog.top/logo/countries/pl/TVN_7.png" group-title="OGÓLNOTEMATYCZNE", TVN 7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/826
+#EXTINF:-1 tvg-id="TTV" tvg-name=" TTV" tvg-logo="https://docdog.top/logo/countries/pl/TTV.png" group-title="OGÓLNOTEMATYCZNE", TTV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/827
+#EXTINF:-1 tvg-id="iTVN" tvg-name=" ITVN" tvg-logo="https://docdog.top/logo/countries/pl/ITVN_HD.png" group-title="OGÓLNOTEMATYCZNE", ITVN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/828
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name=" POLONIA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLONIA_1.png" group-title="OGÓLNOTEMATYCZNE", POLONIA 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/829
+#EXTINF:-1 tvg-id="Tele 5" tvg-name=" TELE 5" tvg-logo="https://docdog.top/logo/countries/pl/TELE_5.png" group-title="OGÓLNOTEMATYCZNE", TELE 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/830
+#EXTINF:-1 tvg-id="TVC" tvg-name=" TVC" tvg-logo="https://docdog.top/logo/countries/pl/TVC.png" group-title="OGÓLNOTEMATYCZNE", TVC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/831
+#EXTINF:-1 tvg-id="" tvg-name=" SHOW TV" tvg-logo="https://docdog.top/logo/countries/pl/SHOW_TV.png" group-title="OGÓLNOTEMATYCZNE", SHOW TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/832
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name=" ZOOM TV" tvg-logo="https://docdog.top/logo/countries/pl/ZOOM_TV.png" group-title="OGÓLNOTEMATYCZNE", ZOOM TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/833
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name=" CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT.png" group-title="SPORT", CANAL+ SPORT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/834
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name=" CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_2.png" group-title="SPORT", CANAL+ SPORT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/835
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name=" CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_3.png" group-title="SPORT", CANAL+ SPORT 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/836
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name=" CANAL+ SPORT 4" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_4.png" group-title="SPORT", CANAL+ SPORT 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/837
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name=" CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_5.png" group-title="SPORT", CANAL+ SPORT 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/838
+#EXTINF:-1 tvg-id="Canal+ 360" tvg-name=" CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_360.png" group-title="SPORT", CANAL+ 360
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/839
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name=" CANAL+ NOW" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_NOW.png" group-title="SPORT", CANAL+ NOW
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/840
+#EXTINF:-1 tvg-id="Canal+ Live 1" tvg-name=" CANAL+ LIVE 1" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_LIVE.png" group-title="SPORT", CANAL+ LIVE 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/841
+#EXTINF:-1 tvg-id="Canal+ Live 2" tvg-name=" CANAL+ LIVE 2" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_LIVE.png" group-title="SPORT", CANAL+ LIVE 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/842
+#EXTINF:-1 tvg-id="Canal+ Live 3" tvg-name=" CANAL+ LIVE 3" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_LIVE.png" group-title="SPORT", CANAL+ LIVE 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/843
+#EXTINF:-1 tvg-id="Canal+ Live 4" tvg-name=" CANAL+ LIVE 4" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_LIVE.png" group-title="SPORT", CANAL+ LIVE 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/844
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name=" ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/pl/ELEVEN_SPORTS_1.png" group-title="SPORT", ELEVEN SPORTS 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/845
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name=" ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/pl/ELEVEN_SPORTS_2.png" group-title="SPORT", ELEVEN SPORTS 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/846
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name=" ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/pl/ELEVEN_SPORTS_3.png" group-title="SPORT", ELEVEN SPORTS 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/847
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name=" ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/pl/ELEVEN_SPORTS_4.png" group-title="SPORT", ELEVEN SPORTS 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/848
+#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-name=" POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_1.png" group-title="SPORT", POLSAT SPORT 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/849
+#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-name=" POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_2.png" group-title="SPORT", POLSAT SPORT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/850
+#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-name=" POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_3.png" group-title="SPORT", POLSAT SPORT 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/851
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name=" POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_FIGHT.png" group-title="SPORT", POLSAT SPORT FIGHT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/852
+#EXTINF:-1 tvg-id="Polsat Games" tvg-name=" POLSAT GAMES" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_GAMES.png" group-title="SPORT", POLSAT GAMES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/853
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name=" POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_PREMIUM_1.png" group-title="SPORT", POLSAT SPORT PREMIUM 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/854
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name=" POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_PREMIUM_2.png" group-title="SPORT", POLSAT SPORT PREMIUM 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/855
+#EXTINF:-1 tvg-id="Polsat Sport Extra 1" tvg-name=" POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="SPORT", POLSAT SPORT EXTRA 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/856
+#EXTINF:-1 tvg-id="Polsat Sport Extra 2" tvg-name=" POLSAT SPORT EXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="SPORT", POLSAT SPORT EXTRA 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/857
+#EXTINF:-1 tvg-id="Polsat Sport Extra 3" tvg-name=" POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="SPORT", POLSAT SPORT EXTRA 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/858
+#EXTINF:-1 tvg-id="Polsat Sport Extra 4" tvg-name=" POLSAT SPORT EXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="SPORT", POLSAT SPORT EXTRA 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/859
+#EXTINF:-1 tvg-id="Eurosport 3" tvg-name=" EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_1.png" group-title="SPORT", EUROSPORT 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/860
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name=" EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_2.png" group-title="SPORT", EUROSPORT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/861
+#EXTINF:-1 tvg-id="" tvg-name=" EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/pl/EXTREME_SPORTS_CHANNEL.png" group-title="SPORT", EXTREME SPORTS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/862
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name=" FIGHTKLUB" tvg-logo="https://docdog.top/logo/countries/pl/FIGHTKLUB.png" group-title="SPORT", FIGHTKLUB
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/863
+#EXTINF:-1 tvg-id="" tvg-name=" FAST&FUN BOX" tvg-logo="https://docdog.top/logo/countries/pl/FAST_AND_FUN_BOX.png" group-title="SPORT", FAST&FUN BOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/864
+#EXTINF:-1 tvg-id="Motowizja" tvg-name=" MOTOWIZJA" tvg-logo="https://docdog.top/logo/countries/pl/MOTOWIZJA.png" group-title="SPORT", MOTOWIZJA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/865
+#EXTINF:-1 tvg-id="Sportowa.TV" tvg-name=" SPORTOWA TV" tvg-logo="https://docdog.top/logo/countries/pl/SPORTOWA_TV.png" group-title="SPORT", SPORTOWA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/866
+#EXTINF:-1 tvg-id="Sportklub" tvg-name=" SPORTKLUB" tvg-logo="https://docdog.top/logo/countries/pl/SPORTKLUB.png" group-title="SPORT", SPORTKLUB
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/867
+#EXTINF:-1 tvg-id="" tvg-name=" TVN MOTO" tvg-logo="https://docdog.top/logo/countries/pl/TVN_MOTO_ONLINE.png" group-title="SPORT", TVN MOTO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/868
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name=" TVP SPORT" tvg-logo="https://docdog.top/logo/countries/pl/TVP_SPORT.png" group-title="SPORT", TVP SPORT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/869
+#EXTINF:-1 tvg-id="FightBox" tvg-name=" FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/pl/FIGHTBOX.png" group-title="SPORT", FIGHTBOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/870
+#EXTINF:-1 tvg-id="" tvg-name=" GOLF ZONE" tvg-logo="https://docdog.top/logo/countries/pl/GOLF_ZONE.png" group-title="SPORT", GOLF ZONE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/871
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name=" CANAL+" tvg-logo="https://docdog.top/logo/countries/pl/CANAL.png" group-title="SPORT", CANAL+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/872
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name=" CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_1.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/873
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name=" CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_2.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/874
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name=" CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_3.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/875
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name=" CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_4.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/876
+#EXTINF:-1 tvg-id="Canal+ Extra 5" tvg-name=" CANAL+ EXTRA 5 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_5.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 5 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/877
+#EXTINF:-1 tvg-id="Canal+ Extra 6" tvg-name=" CANAL+ EXTRA 6 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_6.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 6 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/878
+#EXTINF:-1 tvg-id="Canal+ Extra 7" tvg-name=" CANAL+ EXTRA 7 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_7.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 7 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/879
+#EXTINF:-1 tvg-id="Canal+ Extra 8" tvg-name=" CANAL+ EXTRA 8 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_8.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 8 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/880
+#EXTINF:-1 tvg-id="Canal+ Extra 9" tvg-name=" CANAL+ EXTRA 9 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_9.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 9 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/881
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name=" CANAL+ EXTRA 10 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_10.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 10 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/882
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name=" CANAL+ EXTRA 11 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_11.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 11 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/883
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name=" CANAL+ EXTRA 12 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_12.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 12 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/884
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name=" CANAL+ EXTRA 13 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_13.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 13 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/885
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name=" CANAL+ EXTRA 14 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_14.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 14 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/886
+#EXTINF:-1 tvg-id="Canal+ Extra 5" tvg-name=" CANAL+ EXTRA 15 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_15.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 15 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/887
+#EXTINF:-1 tvg-id="Canal+ Extra 6" tvg-name=" CANAL+ EXTRA 16 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_16.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 16 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/888
+#EXTINF:-1 tvg-id="Canal+ Extra 7" tvg-name=" CANAL+ EXTRA 17 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_17.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 17 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/889
+#EXTINF:-1 tvg-id="Canal+ Extra 8" tvg-name=" CANAL+ EXTRA 18 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_18.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 18 (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/890
+#EXTINF:-1 tvg-id="Canal+ Extra 8" tvg-name=" CANAL+ EXTRA 8 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_8.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 8 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/891
+#EXTINF:-1 tvg-id="Canal+ Extra 9" tvg-name=" CANAL+ EXTRA 9 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_9.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 9 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/892
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name=" CANAL+ EXTRA 10 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_10.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 10 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/893
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name=" CANAL+ EXTRA 11 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_11.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 11 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/894
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name=" CANAL+ EXTRA 12 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_12.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 12 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/895
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name=" CANAL+ EXTRA 13 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_13.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 13 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/896
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name=" CANAL+ EXTRA 14 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_14.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 14 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/897
+#EXTINF:-1 tvg-id="Canal+ Extra 5" tvg-name=" CANAL+ EXTRA 15 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_15.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 15 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/898
+#EXTINF:-1 tvg-id="Canal+ Extra 6" tvg-name=" CANAL+ EXTRA 16 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_16.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 16 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/899
+#EXTINF:-1 tvg-id="Canal+ Extra 7" tvg-name=" CANAL+ EXTRA 17 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_17.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 17 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/900
+#EXTINF:-1 tvg-id="Canal+ Extra 8" tvg-name=" CANAL+ EXTRA 18 HD (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_EXTRA_18.png" group-title="CANAL+ EXTRA", CANAL+ EXTRA 18 HD (ONLY EVENT TIME)
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/901
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name=" ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/pl/ANIMAL_PLANET.png" group-title="DOKUMENT", ANIMAL PLANET
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/902
+#EXTINF:-1 tvg-id="Adventure" tvg-name=" ADVENTURE" tvg-logo="https://docdog.top/logo/countries/pl/ADVENTURE.png" group-title="DOKUMENT", ADVENTURE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/903
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name=" BBC BRIT" tvg-logo="https://docdog.top/logo/countries/pl/BBC_BRIT.png" group-title="DOKUMENT", BBC BRIT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/904
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name=" BBC EARTH" tvg-logo="https://docdog.top/logo/countries/pl/BBC_EARTH.png" group-title="DOKUMENT", BBC EARTH
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/905
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name=" CANAL+ DOKUMENT" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_DOKUMENT.png" group-title="DOKUMENT", CANAL+ DOKUMENT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/906
+#EXTINF:-1 tvg-id="CI Polsat" tvg-name=" CI POLSAT" tvg-logo="https://docdog.top/logo/countries/pl/CI_POLSAT.png" group-title="DOKUMENT", CI POLSAT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/907
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/pl/DISCOVERY_CHANNEL.png" group-title="DOKUMENT", DISCOVERY CHANNEL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/908
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-name=" DISCOVERY HISTORIA" tvg-logo="https://docdog.top/logo/countries/pl/DISCOVERY_HISTORIA.png" group-title="DOKUMENT", DISCOVERY HISTORIA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/909
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name=" DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/pl/DISCOVERY_SCIENCE.png" group-title="DOKUMENT", DISCOVERY SCIENCE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/910
+#EXTINF:-1 tvg-id="DOCUBOX" tvg-name=" DOCUBOX" tvg-logo="https://docdog.top/logo/countries/pl/DOCUBOX.png" group-title="DOKUMENT", DOCUBOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/911
+#EXTINF:-1 tvg-id="" tvg-name=" INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/pl/ID_POLAND.png" group-title="DOKUMENT", INVESTIGATION DISCOVERY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/912
+#EXTINF:-1 tvg-id="HISTORY" tvg-name=" HISTORY" tvg-logo="https://docdog.top/logo/countries/pl/HISTORY.png" group-title="DOKUMENT", HISTORY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/913
+#EXTINF:-1 tvg-id="History 2" tvg-name=" HISTORY 2" tvg-logo="https://docdog.top/logo/countries/pl/HISTORY_2.png" group-title="DOKUMENT", HISTORY 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/914
+#EXTINF:-1 tvg-id="Planete+" tvg-name=" PLANETE+" tvg-logo="https://docdog.top/logo/countries/pl/PLANETE.png" group-title="DOKUMENT", PLANETE+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/915
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-name=" POLSAT DOKU" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_DOKU.png" group-title="DOKUMENT", POLSAT DOKU
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/916
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name=" POLSAT VIASAT EXPLORE" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VIASAT_EXPLORE.png" group-title="DOKUMENT", POLSAT VIASAT EXPLORE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/917
+#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name=" POLSAT VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VIASAT_HISTORY.png" group-title="DOKUMENT", POLSAT VIASAT HISTORY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/918
+#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name=" POLSAT VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VIASAT_NATURE.png" group-title="DOKUMENT", POLSAT VIASAT NATURE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/919
+#EXTINF:-1 tvg-id="" tvg-name=" NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/pl/NATIONAL_GEO.png" group-title="DOKUMENT", NATIONAL GEO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/920
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-name=" NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/pl/NAT_GEO_PEOPLE.png" group-title="DOKUMENT", NAT GEO PEOPLE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/921
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name=" NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/pl/NATIONAL_GEOGRAPHIC_WILD.png" group-title="DOKUMENT", NATIONAL GEOGRAPHIC WILD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/922
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name=" TVP DOKUMENT" tvg-logo="https://docdog.top/logo/countries/pl/TVP_DOKUMENT.png" group-title="DOKUMENT", TVP DOKUMENT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/923
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name=" TVP HISTORIA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_HISTORIA.png" group-title="DOKUMENT", TVP HISTORIA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/924
+#EXTINF:-1 tvg-id="TVP Historia 2" tvg-name=" TVP HISTORIA 2" tvg-logo="https://docdog.top/logo/countries/pl/TVP_HISTORIA_2.png" group-title="DOKUMENT", TVP HISTORIA 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/925
+#EXTINF:-1 tvg-id="TVP Kultura 2" tvg-name=" TVP KULTURA 2" tvg-logo="https://docdog.top/logo/countries/pl/TVP_KULTURA_2.png" group-title="DOKUMENT", TVP KULTURA 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/926
+#EXTINF:-1 tvg-id="TVP Nauka" tvg-name=" TVP NAUKA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_NAUKA.png" group-title="DOKUMENT", TVP NAUKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/927
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name=" TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/pl/TRAVEL_CHANNEL.png" group-title="DOKUMENT", TRAVEL CHANNEL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/928
+#EXTINF:-1 tvg-id="DTX" tvg-name=" DTX" tvg-logo="https://docdog.top/logo/countries/pl/DTX.png" group-title="DOKUMENT", DTX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/929
+#EXTINF:-1 tvg-id="Museum UHD" tvg-name=" MUSEUM" tvg-logo="https://docdog.top/logo/countries/pl/MUSEUM_TV.png" group-title="DOKUMENT", MUSEUM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/930
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name=" LOVE NATURE" tvg-logo="https://docdog.top/logo/countries/pl/LOVE_NATURE.png" group-title="DOKUMENT", LOVE NATURE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/931
+#EXTINF:-1 tvg-id="FUN BOX" tvg-name=" FUNBOX UHD" tvg-logo="https://docdog.top/logo/countries/pl/FUNBOX_UHD.png" group-title="DOKUMENT", FUNBOX UHD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/932
+#EXTINF:-1 tvg-id="WATER PLANET" tvg-name=" WATER PLANET" tvg-logo="https://docdog.top/logo/countries/pl/WATER_PLANET.png" group-title="DOKUMENT", WATER PLANET
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/933
+#EXTINF:-1 tvg-id="13 Ulica" tvg-name=" 13 ULICA" tvg-logo="https://docdog.top/logo/countries/pl/13_ULICA.png" group-title="FILMY I SERIALE", 13 ULICA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/934
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name=" ALE KINO+" tvg-logo="https://docdog.top/logo/countries/pl/ALE_KINO.png" group-title="FILMY I SERIALE", ALE KINO+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/935
+#EXTINF:-1 tvg-id="AMC" tvg-name=" AMC" tvg-logo="https://docdog.top/logo/countries/pl/AMC.png" group-title="FILMY I SERIALE", AMC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/936
+#EXTINF:-1 tvg-id="AXN" tvg-name=" AXN" tvg-logo="https://docdog.top/logo/countries/pl/AXN.png" group-title="FILMY I SERIALE", AXN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/937
+#EXTINF:-1 tvg-id="AXN Black" tvg-name=" AXN BLACK" tvg-logo="https://docdog.top/logo/countries/pl/AXN_BLACK.png" group-title="FILMY I SERIALE", AXN BLACK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/938
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name=" AXN SPIN" tvg-logo="https://docdog.top/logo/countries/pl/AXN_SPIN.png" group-title="FILMY I SERIALE", AXN SPIN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/939
+#EXTINF:-1 tvg-id="AXN White" tvg-name=" AXN WHITE" tvg-logo="https://docdog.top/logo/countries/pl/AXN_WHITE.png" group-title="FILMY I SERIALE", AXN WHITE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/940
+#EXTINF:-1 tvg-id="BBC First" tvg-name=" BBC FIRST" tvg-logo="https://docdog.top/logo/countries/pl/BBC_FIRST.png" group-title="FILMY I SERIALE", BBC FIRST
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/941
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name=" CANAL+ 1" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_1_HD.png" group-title="FILMY I SERIALE", CANAL+ 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/942
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-name=" CANAL+ FILM" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_FILM.png" group-title="FILMY I SERIALE", CANAL+ FILM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/943
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name=" CANAL+ PREMIUM" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_PREMIUM.png" group-title="FILMY I SERIALE", CANAL+ PREMIUM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/944
+#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name=" CANAL+ SERIALE" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SERIALE.png" group-title="FILMY I SERIALE", CANAL+ SERIALE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/945
+#EXTINF:-1 tvg-id="Cinemax" tvg-name=" CINEMAX" tvg-logo="https://docdog.top/logo/countries/pl/CINEMAX.png" group-title="FILMY I SERIALE", CINEMAX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/946
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name=" CINEMAX 2" tvg-logo="https://docdog.top/logo/countries/pl/CINEMAX_2.png" group-title="FILMY I SERIALE", CINEMAX 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/947
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name=" COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/pl/COMEDY_CENTRAL.png" group-title="FILMY I SERIALE", COMEDY CENTRAL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/948
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name=" EPIC DRAMA" tvg-logo="https://docdog.top/logo/countries/pl/EPIC_DRAMA.png" group-title="FILMY I SERIALE", EPIC DRAMA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/949
+#EXTINF:-1 tvg-id="Polsat Film" tvg-name=" POLSAT FILM" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_FILM.png" group-title="FILMY I SERIALE", POLSAT FILM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/950
+#EXTINF:-1 tvg-id="Polsat Film 2" tvg-name=" POLSAT FILM 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_FILM_2.png" group-title="FILMY I SERIALE", POLSAT FILM 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/951
+#EXTINF:-1 tvg-id="Polsat Seriale" tvg-name=" POLSAT SERIALE" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SERIALE.png" group-title="FILMY I SERIALE", POLSAT SERIALE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/952
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name=" SUPER POLSAT" tvg-logo="https://docdog.top/logo/countries/pl/SUPER_POLSAT.png" group-title="FILMY I SERIALE", SUPER POLSAT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/953
+#EXTINF:-1 tvg-id="HBO" tvg-name=" HBO" tvg-logo="https://docdog.top/logo/countries/pl/HBO.png" group-title="FILMY I SERIALE", HBO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/954
+#EXTINF:-1 tvg-id="HBO 2" tvg-name=" HBO 2" tvg-logo="https://docdog.top/logo/countries/pl/HBO_2.png" group-title="FILMY I SERIALE", HBO 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/955
+#EXTINF:-1 tvg-id="HBO 3" tvg-name=" HBO 3" tvg-logo="https://docdog.top/logo/countries/pl/HBO_3.png" group-title="FILMY I SERIALE", HBO 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/956
+#EXTINF:-1 tvg-id="FX" tvg-name=" FX" tvg-logo="https://docdog.top/logo/countries/pl/FOX.png" group-title="FILMY I SERIALE", FX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/957
+#EXTINF:-1 tvg-id="FX Comedy" tvg-name=" FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/pl/FOX_COMEDY.png" group-title="FILMY I SERIALE", FOX COMEDY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/958
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name=" FILMBOX ACTION" tvg-logo="https://docdog.top/logo/countries/pl/FILMBOX_ACTION.png" group-title="FILMY I SERIALE", FILMBOX ACTION
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/959
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name=" FILMBOX ARTHOUSE" tvg-logo="https://docdog.top/logo/countries/pl/FILMBOX_ARTHOUSE.png" group-title="FILMY I SERIALE", FILMBOX ARTHOUSE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/960
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name=" FILMBOX EXTRA" tvg-logo="https://docdog.top/logo/countries/pl/FILMBOX_EXTRA.png" group-title="FILMY I SERIALE", FILMBOX EXTRA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/961
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name=" FILMBOX FAMILY" tvg-logo="https://docdog.top/logo/countries/pl/FILMBOX_FAMILY.png" group-title="FILMY I SERIALE", FILMBOX FAMILY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/962
+#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name=" FILMBOX PREMIUM" tvg-logo="https://docdog.top/logo/countries/pl/FILMBOX_PREMIUM.png" group-title="FILMY I SERIALE", FILMBOX PREMIUM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/963
+#EXTINF:-1 tvg-id="Film Cafe" tvg-name=" FILM CAFE" tvg-logo="https://docdog.top/logo/countries/pl/FILM_CAFE.png" group-title="FILMY I SERIALE", FILM CAFE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/964
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name=" KINO POLSKA" tvg-logo="https://docdog.top/logo/countries/pl/KINO_POLSKA.png" group-title="FILMY I SERIALE", KINO POLSKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/965
+#EXTINF:-1 tvg-id="Kino TV" tvg-name=" KINO TV" tvg-logo="https://docdog.top/logo/countries/pl/KINO_TV.png" group-title="FILMY I SERIALE", KINO TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/966
+#EXTINF:-1 tvg-id="Novelas+" tvg-name=" NOVELAS+" tvg-logo="https://docdog.top/logo/countries/pl/NOVELAS.png" group-title="FILMY I SERIALE", NOVELAS+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/967
+#EXTINF:-1 tvg-id="" tvg-name=" PARAMOUNT NETWORK" tvg-logo="https://docdog.top/logo/countries/pl/PARAMOUNT_NETWORK.png" group-title="FILMY I SERIALE", PARAMOUNT NETWORK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/968
+#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name=" ROMANCE TV" tvg-logo="https://docdog.top/logo/countries/pl/ROMANCE_TV.png" group-title="FILMY I SERIALE", ROMANCE TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/969
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name=" SUNDANCE TV" tvg-logo="https://docdog.top/logo/countries/pl/SUNDANCE_TV.png" group-title="FILMY I SERIALE", SUNDANCE TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/970
+#EXTINF:-1 tvg-id="SCI FI" tvg-name=" SCIFI" tvg-logo="https://docdog.top/logo/countries/pl/SCIFI.png" group-title="FILMY I SERIALE", SCIFI
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/971
+#EXTINF:-1 tvg-id="Warner TV" tvg-name=" WARNER TV" tvg-logo="https://docdog.top/logo/countries/pl/WARNER_TV.png" group-title="FILMY I SERIALE", WARNER TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/972
+#EXTINF:-1 tvg-id="Bollywood HD" tvg-name=" BOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/pl/BOLLYWOOD_HD.png" group-title="FILMY I SERIALE", BOLLYWOOD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/973
+#EXTINF:-1 tvg-id="Dla Ciebie TV" tvg-name=" DLA CIEBIE" tvg-logo="https://docdog.top/logo/countries/pl/DLA_CIEBIE.png" group-title="FILMY I SERIALE", DLA CIEBIE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/974
+#EXTINF:-1 tvg-id="" tvg-name=" DIZI" tvg-logo="https://docdog.top/logo/countries/pl/DIZI.png" group-title="FILMY I SERIALE", DIZI
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/975
+#EXTINF:-1 tvg-id="NOVELA TV" tvg-name=" NOVELA TV" tvg-logo="https://docdog.top/logo/countries/pl/NOVELA_TV.png" group-title="FILMY I SERIALE", NOVELA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/976
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name=" STOPKLATKA" tvg-logo="https://docdog.top/logo/countries/pl/STOPKLATKA.png" group-title="FILMY I SERIALE", STOPKLATKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/977
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name=" TVN FABULA" tvg-logo="https://docdog.top/logo/countries/pl/TVN_FABULA.png" group-title="FILMY I SERIALE", TVN FABULA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/978
+#EXTINF:-1 tvg-id="" tvg-name=" VIASAT KINO" tvg-logo="https://docdog.top/logo/countries/pl/VIASAT_KINO.png" group-title="FILMY I SERIALE", VIASAT KINO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/979
+#EXTINF:-1 tvg-id="ViDoc TV" tvg-name=" VIDOC TV" tvg-logo="https://docdog.top/logo/countries/pl/VIDOCTV.png" group-title="FILMY I SERIALE", VIDOC TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/980
+#EXTINF:-1 tvg-id="Skyshowtime 1" tvg-name=" SKYSHOWTIME 1" tvg-logo="https://docdog.top/logo/countries/pl/SKYSHOWTIM.png" group-title="FILMY I SERIALE", SKYSHOWTIME 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/981
+#EXTINF:-1 tvg-id="Skyshowtime 2" tvg-name=" SKYSHOWTIME 2" tvg-logo="https://docdog.top/logo/countries/pl/SKYSHOWTIM.png" group-title="FILMY I SERIALE", SKYSHOWTIME 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/982
+#EXTINF:-1 tvg-id="VOD 208" tvg-name=" VOD 202" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 202
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/983
+#EXTINF:-1 tvg-id="VOD 208" tvg-name=" VOD 203" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 203
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/984
+#EXTINF:-1 tvg-id="VOD 208" tvg-name=" VOD 204" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 204
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/985
+#EXTINF:-1 tvg-id="VOD 205" tvg-name=" VOD 205" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 205
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/986
+#EXTINF:-1 tvg-id="VOD 206" tvg-name=" VOD 206" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 206
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/987
+#EXTINF:-1 tvg-id="VOD 207" tvg-name=" VOD 207" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 207
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/988
+#EXTINF:-1 tvg-id="VOD 208" tvg-name=" VOD 208" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_VOD.png" group-title="FILMY I SERIALE", VOD 208
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/989
+#EXTINF:-1 tvg-id="Antena" tvg-name=" ANTENA" tvg-logo="https://docdog.top/logo/countries/pl/ANTENA.png" group-title="OGÓLNE/INFORMACJE", ANTENA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/990
+#EXTINF:-1 tvg-id="Biznes 24" tvg-name=" BIZNES 24" tvg-logo="https://docdog.top/logo/countries/pl/BIZNES_24.png" group-title="OGÓLNE/INFORMACJE", BIZNES 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/991
+#EXTINF:-1 tvg-id="" tvg-name=" BBC NEWS" tvg-logo="https://docdog.top/logo/countries/pl/BBC_NEWS.png" group-title="OGÓLNE/INFORMACJE", BBC NEWS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/992
+#EXTINF:-1 tvg-id="" tvg-name=" CNBC EUROPE" tvg-logo="https://docdog.top/logo/countries/pl/CNBC_EUROPE.png" group-title="OGÓLNE/INFORMACJE", CNBC EUROPE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/993
+#EXTINF:-1 tvg-id="" tvg-name=" CNN INTERNATIONAL" tvg-logo="https://docdog.top/logo/countries/pl/CNN_INTERNATIONAL.png" group-title="OGÓLNE/INFORMACJE", CNN INTERNATIONAL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/994
+#EXTINF:-1 tvg-id="" tvg-name=" DEUTSCHE WELLE" tvg-logo="https://docdog.top/logo/countries/pl/DEUTSCHE_WELLE.png" group-title="OGÓLNE/INFORMACJE", DEUTSCHE WELLE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/995
+#EXTINF:-1 tvg-id="EURONEWS HD" tvg-name=" EURONEWS" tvg-logo="https://docdog.top/logo/countries/pl/EURONEWS.png" group-title="OGÓLNE/INFORMACJE", EURONEWS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/996
+#EXTINF:-1 tvg-id="" tvg-name=" ESPRESO TV" tvg-logo="https://docdog.top/logo/countries/pl/ESPRESO_TV.png" group-title="OGÓLNE/INFORMACJE", ESPRESO TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/997
+#EXTINF:-1 tvg-id="" tvg-name=" FRANCE 24 ENG" tvg-logo="https://docdog.top/logo/countries/pl/FRANCE_24_ENG.png" group-title="OGÓLNE/INFORMACJE", FRANCE 24 ENG
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/998
+#EXTINF:-1 tvg-id="France 24 FR" tvg-name=" FRANCE 24 FR" tvg-logo="https://docdog.top/logo/countries/pl/FRANCE_24_FR.png" group-title="OGÓLNE/INFORMACJE", FRANCE 24 FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/999
+#EXTINF:-1 tvg-id="METRO" tvg-name=" METRO" tvg-logo="https://docdog.top/logo/countries/pl/METRO.png" group-title="OGÓLNE/INFORMACJE", METRO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1000
+#EXTINF:-1 tvg-id="Polsat News" tvg-name=" POLSAT NEWS" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_NEWS.png" group-title="OGÓLNE/INFORMACJE", POLSAT NEWS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1001
+#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name=" POLSAT NEWS 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_NEWS_2.png" group-title="OGÓLNE/INFORMACJE", POLSAT NEWS 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1002
+#EXTINF:-1 tvg-id="Polsat News Polityka" tvg-name=" POLSAT NEWS POLITYKA" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_NEWS_POLITYKA.png" group-title="OGÓLNE/INFORMACJE", POLSAT NEWS POLITYKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1003
+#EXTINF:-1 tvg-id="TVN 24" tvg-name=" TVN 24" tvg-logo="https://docdog.top/logo/countries/pl/TVN_24.png" group-title="OGÓLNE/INFORMACJE", TVN 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1004
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name=" TVN 24 BIS" tvg-logo="https://docdog.top/logo/countries/pl/TVN_24_BIS.png" group-title="OGÓLNE/INFORMACJE", TVN 24 BIS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1005
+#EXTINF:-1 tvg-id="TVP World" tvg-name=" TVP WORLD" tvg-logo="https://docdog.top/logo/countries/pl/TVP_WORLD.png" group-title="OGÓLNE/INFORMACJE", TVP WORLD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1006
+#EXTINF:-1 tvg-id="" tvg-name=" NHK WORLD" tvg-logo="https://docdog.top/logo/countries/pl/NHK_WORLD.png" group-title="OGÓLNE/INFORMACJE", NHK WORLD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1007
+#EXTINF:-1 tvg-id="News24" tvg-name=" NEWS 24" tvg-logo="https://docdog.top/logo/countries/pl/NEWS_24.png" group-title="OGÓLNE/INFORMACJE", NEWS 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1008
+#EXTINF:-1 tvg-id="WP" tvg-name=" WP" tvg-logo="https://docdog.top/logo/countries/pl/WP.png" group-title="OGÓLNE/INFORMACJE", WP
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1009
+#EXTINF:-1 tvg-id="wPolsce 24" tvg-name=" WPOLSCE 24" tvg-logo="https://docdog.top/logo/countries/pl/WPOLSCE_24.png" group-title="OGÓLNE/INFORMACJE", WPOLSCE 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1010
+#EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name=" WYDARZENIA 24" tvg-logo="https://docdog.top/logo/countries/pl/WYDARZENIA_24.png" group-title="OGÓLNE/INFORMACJE", WYDARZENIA 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1011
+#EXTINF:-1 tvg-id="Sejm RP" tvg-name=" SEJM RP" tvg-logo="https://docdog.top/logo/countries/pl/SEJM_RP.png" group-title="OGÓLNE/INFORMACJE", SEJM RP
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1012
+#EXTINF:-1 tvg-id="TVS" tvg-name=" TVS" tvg-logo="https://docdog.top/logo/countries/pl/TVS.png" group-title="OGÓLNE/INFORMACJE", TVS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1013
+#EXTINF:-1 tvg-id="Republika" tvg-name=" TV REPUBLIKA" tvg-logo="https://docdog.top/logo/countries/pl/TV_REPUBLIKA.png" group-title="OGÓLNE/INFORMACJE", TV REPUBLIKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1014
+#EXTINF:-1 tvg-id="" tvg-name=" TELEWIZJA BIZNESOWA" tvg-logo="https://docdog.top/logo/countries/pl/TELEWIZJA_BIZNESOWA.png" group-title="OGÓLNE/INFORMACJE", TELEWIZJA BIZNESOWA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1015
+#EXTINF:-1 tvg-id="Baby TV" tvg-name=" BABY TV" tvg-logo="https://docdog.top/logo/countries/pl/BABY_TV.png" group-title="DZIECI", BABY TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1016
+#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name=" BBC CBEEBIES" tvg-logo="https://docdog.top/logo/countries/pl/BBC_CBEEBIES.png" group-title="DZIECI", BBC CBEEBIES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1017
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name=" BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/pl/BLOOMBERG.png" group-title="DZIECI", BLOOMBERG
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1018
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name=" CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/pl/CARTOON_NETWORK.png" group-title="DZIECI", CARTOON NETWORK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1019
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name=" CARTOONITO" tvg-logo="https://docdog.top/logo/countries/pl/CARTOONITO.png" group-title="DZIECI", CARTOONITO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1020
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name=" DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/pl/DISNEY_CHANNEL.png" group-title="DZIECI", DISNEY CHANNEL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1021
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name=" DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/pl/DISNEY_JUNIOR.png" group-title="DZIECI", DISNEY JUNIOR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1022
+#EXTINF:-1 tvg-id="Disney XD" tvg-name=" DISNEY XD" tvg-logo="https://docdog.top/logo/countries/pl/DISNEY_XD.png" group-title="DZIECI", DISNEY XD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1023
+#EXTINF:-1 tvg-id="" tvg-name=" DA VINCI" tvg-logo="https://docdog.top/logo/countries/pl/DA_VINCI.png" group-title="DZIECI", DA VINCI
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1024
+#EXTINF:-1 tvg-id="Duck TV" tvg-name=" DUCK TV" tvg-logo="https://docdog.top/logo/countries/pl/DUCK_TV.png" group-title="DZIECI", DUCK TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1025
+#EXTINF:-1 tvg-id="DuckTV Plus" tvg-name=" DUCK TV PLUS" tvg-logo="https://docdog.top/logo/countries/pl/DUCK_TV_PLUS.png" group-title="DZIECI", DUCK TV PLUS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1026
+#EXTINF:-1 tvg-id="Polsat JimJam" tvg-name=" POLSAT JIM JAM" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_JIM_JAM.png" group-title="DZIECI", POLSAT JIM JAM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1027
+#EXTINF:-1 tvg-id="Minimini+" tvg-name=" MINIMINI+" tvg-logo="https://docdog.top/logo/countries/pl/MINIMINI.png" group-title="DZIECI", MINIMINI+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1028
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name=" NICK JR" tvg-logo="https://docdog.top/logo/countries/pl/NICK_JR.png" group-title="DZIECI", NICK JR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1029
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name=" NICKELODEON" tvg-logo="https://docdog.top/logo/countries/pl/NICKELODEON.png" group-title="DZIECI", NICKELODEON
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1030
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name=" NICKTOONS" tvg-logo="https://docdog.top/logo/countries/pl/NICKTOONS.png" group-title="DZIECI", NICKTOONS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1031
+#EXTINF:-1 tvg-id="TeenNick" tvg-name=" TEENNICK" tvg-logo="https://docdog.top/logo/countries/pl/TEENNICK.png" group-title="DZIECI", TEENNICK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1032
+#EXTINF:-1 tvg-id="Teletoon" tvg-name=" TELETOON+" tvg-logo="https://docdog.top/logo/countries/pl/TELETOON.png" group-title="DZIECI", TELETOON+
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1033
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name=" TVP ABC" tvg-logo="https://docdog.top/logo/countries/pl/TVP_ABC.png" group-title="DZIECI", TVP ABC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1034
+#EXTINF:-1 tvg-id="TVP ABC 2" tvg-name=" TVP ABC 2" tvg-logo="https://docdog.top/logo/countries/pl/TVP_ABC_2.png" group-title="DZIECI", TVP ABC 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1035
+#EXTINF:-1 tvg-id="TOP KIDS" tvg-name=" TOP KIDS" tvg-logo="https://docdog.top/logo/countries/pl/TOP_KIDS.png" group-title="DZIECI", TOP KIDS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1036
+#EXTINF:-1 tvg-id="" tvg-name=" JUNIOR MUSIC" tvg-logo="https://docdog.top/logo/countries/pl/JUNIOR_MUSIC.png" group-title="DZIECI", JUNIOR MUSIC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1037
+#EXTINF:-1 tvg-id="Alfa TVP" tvg-name=" ALFA TVP" tvg-logo="https://docdog.top/logo/countries/pl/ALFA_TVP.png" group-title="DZIECI", ALFA TVP
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1038
+#EXTINF:-1 tvg-id="2x2" tvg-name=" 2X2" tvg-logo="https://docdog.top/logo/countries/pl/2X2.png" group-title="DZIECI", 2X2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1039
+#EXTINF:-1 tvg-id="Active Family" tvg-name=" ACTIVE FAMILY" tvg-logo="https://docdog.top/logo/countries/pl/ACTIVE_FAMILY.png" group-title="LIFESTYLE", ACTIVE FAMILY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1040
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name=" BBC LIFESTYLE" tvg-logo="https://docdog.top/logo/countries/pl/BBC_LIFESTYLE.png" group-title="LIFESTYLE", BBC LIFESTYLE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1041
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name=" CANAL+ DOMO" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_DOMO.png" group-title="LIFESTYLE", CANAL+ DOMO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1042
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name=" CBS REALITY" tvg-logo="https://docdog.top/logo/countries/pl/CBS_REALITY.png" group-title="LIFESTYLE", CBS REALITY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1043
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name=" CANAL+ KUCHNIA" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_KUCHNIA.png" group-title="LIFESTYLE", CANAL+ KUCHNIA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1044
+#EXTINF:-1 tvg-id="Discovery Life" tvg-name=" DISCOVERY LIFE" tvg-logo="https://docdog.top/logo/countries/pl/DISCOVERY_LIFE.png" group-title="LIFESTYLE", DISCOVERY LIFE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1045
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name=" E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/pl/E_ENTERTAINMENT.png" group-title="LIFESTYLE", E! ENTERTAINMENT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1046
+#EXTINF:-1 tvg-id="FashionBox" tvg-name=" FASHIONBOX" tvg-logo="https://docdog.top/logo/countries/pl/FASHIONBOX.png" group-title="LIFESTYLE", FASHIONBOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1047
+#EXTINF:-1 tvg-id="Gametoon" tvg-name=" GAMETOON" tvg-logo="https://docdog.top/logo/countries/pl/GAMETOON.png" group-title="LIFESTYLE", GAMETOON
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1048
+#EXTINF:-1 tvg-id="Polsat Café" tvg-name=" POLSAT CAFE" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_CAFE.png" group-title="LIFESTYLE", POLSAT CAFE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1049
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name=" POLSAT PLAY" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_PLAY.png" group-title="LIFESTYLE", POLSAT PLAY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1050
+#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-name=" POLSAT RODZINA" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_RODZINA.png" group-title="LIFESTYLE", POLSAT RODZINA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1051
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name=" POLSAT COMEDY CENTRAL EXTRA" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_COMEDY_CENTRAL_EXTRA.png" group-title="LIFESTYLE", POLSAT COMEDY CENTRAL EXTRA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1052
+#EXTINF:-1 tvg-id="Food Network" tvg-name=" FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/pl/FOOD_NETWORK.png" group-title="LIFESTYLE", FOOD NETWORK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1053
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name=" FOKUS TV" tvg-logo="https://docdog.top/logo/countries/pl/FOKUS_TV.png" group-title="LIFESTYLE", FOKUS TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1054
+#EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" tvg-logo="https://docdog.top/logo/countries/pl/HGTV.png" group-title="LIFESTYLE", HGTV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1055
+#EXTINF:-1 tvg-id="HOME TV" tvg-name=" HOME TV" tvg-logo="https://docdog.top/logo/countries/pl/HOME_TV.png" group-title="LIFESTYLE", HOME TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1056
+#EXTINF:-1 tvg-id="NOWA TV" tvg-name=" NOWA TV" tvg-logo="https://docdog.top/logo/countries/pl/NOWA_TV.png" group-title="LIFESTYLE", NOWA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1057
+#EXTINF:-1 tvg-id="StudioMed TV" tvg-name=" STUDIOMED TV" tvg-logo="https://docdog.top/logo/countries/pl/STUDIOMED_TV.png" group-title="LIFESTYLE", STUDIOMED TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1058
+#EXTINF:-1 tvg-id="TLC" tvg-name=" TLC" tvg-logo="https://docdog.top/logo/countries/pl/TLC.png" group-title="LIFESTYLE", TLC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1059
+#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name=" TVP KOBIETA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_KOBIETA.png" group-title="LIFESTYLE", TVP KOBIETA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1060
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-name=" TVN TURBO" tvg-logo="https://docdog.top/logo/countries/pl/TVN_TURBO.png" group-title="LIFESTYLE", TVN TURBO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1061
+#EXTINF:-1 tvg-id="TVN Style" tvg-name=" TVN STYLE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_STYLE.png" group-title="LIFESTYLE", TVN STYLE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1062
+#EXTINF:-1 tvg-id="TV OKAZJE" tvg-name=" TV OKAZJE" tvg-logo="https://docdog.top/logo/countries/pl/TV_OKAZJE.png" group-title="LIFESTYLE", TV OKAZJE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1063
+#EXTINF:-1 tvg-id="TVC Super" tvg-name=" TVC SUPER" tvg-logo="https://docdog.top/logo/countries/pl/TVC_SUPER.png" group-title="LIFESTYLE", TVC SUPER
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1064
+#EXTINF:-1 tvg-id="Viasat True Crime" tvg-name=" VIASAT TRUE CRIME" tvg-logo="https://docdog.top/logo/countries/pl/VIASAT_TRUE_CRIME.png" group-title="LIFESTYLE", VIASAT TRUE CRIME
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1065
+#EXTINF:-1 tvg-id="Xtreme TV" tvg-name=" XTREME TV" tvg-logo="https://docdog.top/logo/countries/pl/XTREME_TV.png" group-title="LIFESTYLE", XTREME TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1066
+#EXTINF:-1 tvg-id="" tvg-name=" MYZEN" tvg-logo="https://docdog.top/logo/countries/pl/MYZEN_4K.png" group-title="LIFESTYLE", MYZEN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1067
+#EXTINF:-1 tvg-id="360 TUNEBOX" tvg-name=" 360 TUNEBOX" tvg-logo="https://docdog.top/logo/countries/pl/360_TUNEBOX.png" group-title="MUZYKA", 360 TUNEBOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1068
+#EXTINF:-1 tvg-id="4FUN KIDS" tvg-name=" 4FUN KIDS" tvg-logo="https://docdog.top/logo/countries/pl/4FUN_KIDS.png" group-title="MUZYKA", 4FUN KIDS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1069
+#EXTINF:-1 tvg-id="4FUN TV" tvg-name=" 4FUN.TV" tvg-logo="https://docdog.top/logo/countries/pl/4FUN_TV.png" group-title="MUZYKA", 4FUN.TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1070
+#EXTINF:-1 tvg-id="4FUN DANCE" tvg-name=" 4FUN DANCE" tvg-logo="https://docdog.top/logo/countries/pl/4FUN_DANCE.png" group-title="MUZYKA", 4FUN DANCE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1071
+#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name=" DISCO POLO MUSIC" tvg-logo="https://docdog.top/logo/countries/pl/DISCO_POLO_MUSIC.png" group-title="MUZYKA", DISCO POLO MUSIC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1072
+#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name=" ESKA EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/eskatvextra.png" group-title="MUZYKA", ESKA EXTRA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1073
+#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name=" ESKA ROCK TV" tvg-logo="https://docdog.top/logo/countries/pl/ESKA_ROCK_TV.png" group-title="MUZYKA", ESKA ROCK TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1074
+#EXTINF:-1 tvg-id="Eska TV" tvg-name=" ESKA TV" tvg-logo="https://docdog.top/logo/countries/pl/ESKA_TV.png" group-title="MUZYKA", ESKA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1075
+#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name=" ESKA TV EXTRA" tvg-logo="https://docdog.top/logo/countries/pl/ESKA_TV_EXTRA.png" group-title="MUZYKA", ESKA TV EXTRA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1076
+#EXTINF:-1 tvg-id="Jazz HD" tvg-name=" JAZZ" tvg-logo="https://docdog.top/logo/countries/pl/JAZZ.png" group-title="MUZYKA", JAZZ
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1077
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name=" KINO POLSKA MUZYKA" tvg-logo="https://docdog.top/logo/countries/pl/KINO_POLSKA_MUZYKA.png" group-title="MUZYKA", KINO POLSKA MUZYKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1078
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name=" MTV LIVE" tvg-logo="https://docdog.top/logo/countries/pl/MTV_LIVE.png" group-title="MUZYKA", MTV LIVE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1079
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name=" MTV POLSKA" tvg-logo="https://docdog.top/logo/countries/pl/MTV.png" group-title="MUZYKA", MTV POLSKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1080
+#EXTINF:-1 tvg-id="MTV 00S" tvg-name=" MTV 00S" tvg-logo="https://docdog.top/logo/countries/pl/MTV_00S.png" group-title="MUZYKA", MTV 00S
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1081
+#EXTINF:-1 tvg-id="MTV 80S" tvg-name=" MTV 80S" tvg-logo="https://docdog.top/logo/countries/pl/MTV_80S.png" group-title="MUZYKA", MTV 80S
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1082
+#EXTINF:-1 tvg-id="MTV 90S" tvg-name=" MTV 90S" tvg-logo="https://docdog.top/logo/countries/pl/MTV_90S.png" group-title="MUZYKA", MTV 90S
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1083
+#EXTINF:-1 tvg-id="" tvg-name=" MTV CLUB" tvg-logo="https://docdog.top/logo/countries/pl/MTV_CLUB.png" group-title="MUZYKA", MTV CLUB
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1084
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name=" MTV HITS" tvg-logo="https://docdog.top/logo/countries/pl/MTV_HITS.png" group-title="MUZYKA", MTV HITS
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1085
+#EXTINF:-1 tvg-id="" tvg-name=" MIXTAPE TV" tvg-logo="https://docdog.top/logo/countries/pl/MIXTAPE_TV.png" group-title="MUZYKA", MIXTAPE TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1086
+#EXTINF:-1 tvg-id="MUSIC BOX" tvg-name=" MUSIC BOX" tvg-logo="https://docdog.top/logo/countries/pl/MUSIC_BOX.png" group-title="MUZYKA", MUSIC BOX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1087
+#EXTINF:-1 tvg-id="NICKMUSIC" tvg-name=" NICK MUSIC" tvg-logo="https://docdog.top/logo/countries/pl/NICK_MUSIC.png" group-title="MUZYKA", NICK MUSIC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1088
+#EXTINF:-1 tvg-id="Nuta TV" tvg-name=" NUTA TV" tvg-logo="https://docdog.top/logo/countries/pl/NUTA_TV.png" group-title="MUZYKA", NUTA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1089
+#EXTINF:-1 tvg-id="Nuta Gold" tvg-name=" NUTA GOLD" tvg-logo="https://docdog.top/logo/countries/pl/NUTA_GOLD.png" group-title="MUZYKA", NUTA GOLD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1090
+#EXTINF:-1 tvg-id="Polsat Music" tvg-name=" POLSAT MUSIC" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_MUSIC.png" group-title="MUZYKA", POLSAT MUSIC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1091
+#EXTINF:-1 tvg-id="Polo TV" tvg-name=" POLO TV" tvg-logo="https://docdog.top/logo/countries/pl/POLO_TV.png" group-title="MUZYKA", POLO TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1092
+#EXTINF:-1 tvg-id="POWER TV" tvg-name=" POWER TV" tvg-logo="https://docdog.top/logo/countries/pl/POWER_TV.png" group-title="MUZYKA", POWER TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1093
+#EXTINF:-1 tvg-id="Stars TV" tvg-name=" STARS TV" tvg-logo="https://docdog.top/logo/countries/pl/STARS_TV.png" group-title="MUZYKA", STARS TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1094
+#EXTINF:-1 tvg-id="Szlagier TV" tvg-name=" SZLAGIER TV" tvg-logo="https://docdog.top/logo/countries/pl/SZLAGIER_TV.png" group-title="MUZYKA", SZLAGIER TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1095
+#EXTINF:-1 tvg-id="Vox Music TV" tvg-name=" VOX MUSIC TV" tvg-logo="https://docdog.top/logo/countries/pl/VOX_MUSIC_TV.png" group-title="MUZYKA", VOX MUSIC TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1096
+#EXTINF:-1 tvg-id="TVP 3 Katowice" tvg-name=" TVP 3 KATOWICE" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_KATOWICE.png" group-title="TVP3", TVP 3 KATOWICE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1097
+#EXTINF:-1 tvg-id="TVP 3 Białystok" tvg-name=" TVP 3 BIALYSTOK" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_BIALYSTOK.png" group-title="TVP3", TVP 3 BIALYSTOK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1098
+#EXTINF:-1 tvg-id="TVP 3 Bydgoszcz" tvg-name=" TVP 3 BYDGOSZCZ" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_BYDGOSZCZ.png" group-title="TVP3", TVP 3 BYDGOSZCZ
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1099
+#EXTINF:-1 tvg-id="TVP 3 Gdańsk" tvg-name=" TVP 3 GDANSK" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_GDANSK.png" group-title="TVP3", TVP 3 GDANSK
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1100
+#EXTINF:-1 tvg-id="TVP 3 Gorzow Wielkopolski" tvg-name=" TVP 3 GORZOW WIELKOPOLSKI" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_GORZOW_WLKP.png" group-title="TVP3", TVP 3 GORZOW WIELKOPOLSKI
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1101
+#EXTINF:-1 tvg-id="TVP 3 Kielce" tvg-name=" TVP 3 KIELCE" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_KIELCE.png" group-title="TVP3", TVP 3 KIELCE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1102
+#EXTINF:-1 tvg-id="TVP 3 Kraków" tvg-name=" TVP 3 KRAKOW" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_KRAKOW.png" group-title="TVP3", TVP 3 KRAKOW
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1103
+#EXTINF:-1 tvg-id="" tvg-name=" TVP 3 LODZ" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_LODZ.png" group-title="TVP3", TVP 3 LODZ
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1104
+#EXTINF:-1 tvg-id="TVP 3 Lublin" tvg-name=" TVP 3 LUBLIN" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_LUBLIN.png" group-title="TVP3", TVP 3 LUBLIN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1105
+#EXTINF:-1 tvg-id="TVP 3 Olsztyn" tvg-name=" TVP 3 OLSZTYN" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_OLSZTYN.png" group-title="TVP3", TVP 3 OLSZTYN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1106
+#EXTINF:-1 tvg-id="TVP 3 Opole" tvg-name=" TVP 3 OPOLE" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_OPOLE.png" group-title="TVP3", TVP 3 OPOLE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1107
+#EXTINF:-1 tvg-id="TVP 3 Poznań" tvg-name=" TVP 3 POZNAN" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_POZNAN.png" group-title="TVP3", TVP 3 POZNAN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1108
+#EXTINF:-1 tvg-id="TVP 3 Rzeszow" tvg-name=" TVP 3 RZESZOW" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_RZESZOW.png" group-title="TVP3", TVP 3 RZESZOW
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1109
+#EXTINF:-1 tvg-id="TVP 3 Szczecin" tvg-name=" TVP 3 SZCZECIN" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_SZCZECIN.png" group-title="TVP3", TVP 3 SZCZECIN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1110
+#EXTINF:-1 tvg-id="TVP 3 Warszawa" tvg-name=" TVP 3 WARSZAWA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_WARSZAWA.png" group-title="TVP3", TVP 3 WARSZAWA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1111
+#EXTINF:-1 tvg-id="TVP 3 Wrocław" tvg-name=" TVP 3 WROCLAW" tvg-logo="https://docdog.top/logo/countries/pl/TVP_3_WROCLAW.png" group-title="TVP3", TVP 3 WROCLAW
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1112
+#EXTINF:-1 tvg-id="" tvg-name=" TVN KRYMINALNIE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_KRYMINALNIE_ONLINE.png" group-title="TVN", TVN KRYMINALNIE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1113
+#EXTINF:-1 tvg-id="" tvg-name=" TVN KULTOWE SERIALE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_KULTOWE_SERIALE_ONLINE.png" group-title="TVN", TVN KULTOWE SERIALE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1114
+#EXTINF:-1 tvg-id="" tvg-name=" TVN MOMENTY PRAWDY" tvg-logo="https://docdog.top/logo/countries/pl/TVN_MOMENTY_PRAWDY_ONLINE.png" group-title="TVN", TVN MOMENTY PRAWDY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1115
+#EXTINF:-1 tvg-id="" tvg-name=" TVN MILIONERZY" tvg-logo="https://docdog.top/logo/countries/pl/TVN_MILIONERZY_ONLINE.png" group-title="TVN", TVN MILIONERZY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1116
+#EXTINF:-1 tvg-id="" tvg-name=" TVN PRAWO I ZYCIE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_PRAWO_I_ZYCIE_ONLINE.png" group-title="TVN", TVN PRAWO I ZYCIE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1117
+#EXTINF:-1 tvg-id="" tvg-name=" TVN RAJSKA MILOSC" tvg-logo="https://docdog.top/logo/countries/pl/TVN_RAJSKA_MIIOSC_ONLINE.png" group-title="TVN", TVN RAJSKA MILOSC
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1118
+#EXTINF:-1 tvg-id="TVN Rewolucje w Kuchni Online" tvg-name=" TVN REWOLUCJE W KUCHNI" tvg-logo="https://docdog.top/logo/countries/pl/TVN_REWOLUCJE_W_KUCHNI_ONLINE.png" group-title="TVN", TVN REWOLUCJE W KUCHNI
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1119
+#EXTINF:-1 tvg-id="TVN Seriale o Kobietach Online" tvg-name=" TVN SERIALE O KOBIETACH" tvg-logo="https://docdog.top/logo/countries/pl/TVN_SERIALE_O_KOBIETACH_ONLINE.png" group-title="TVN", TVN SERIALE O KOBIETACH
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1120
+#EXTINF:-1 tvg-id="" tvg-name=" TVN SZKOLA ZYCIA" tvg-logo="https://docdog.top/logo/countries/pl/TVN_SZKOIA_ZYCIA_ONLINE.png" group-title="TVN", TVN SZKOLA ZYCIA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1121
+#EXTINF:-1 tvg-id="TVN Szpitalne Historie Online" tvg-name=" TVN SZPITALNE HISTORIE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_SZPITALNE_HISTORIE_ONLINE.png" group-title="TVN", TVN SZPITALNE HISTORIE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1122
+#EXTINF:-1 tvg-id="" tvg-name=" TVN TALK SHOW" tvg-logo="https://docdog.top/logo/countries/pl/TVN_TALK_SHOW_ONLINE.png" group-title="TVN", TVN TALK SHOW
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1123
+#EXTINF:-1 tvg-id="" tvg-name=" TVN TELENOWELE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_TELENOWELE_ONLINE.png" group-title="TVN", TVN TELENOWELE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1124
+#EXTINF:-1 tvg-id="" tvg-name=" TVN USTERKA" tvg-logo="https://docdog.top/logo/countries/pl/TVN_USTERKA_ONLINE.png" group-title="TVN", TVN USTERKA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1125
+#EXTINF:-1 tvg-id="" tvg-name=" TVN W DOMU" tvg-logo="https://docdog.top/logo/countries/pl/TVN_W_DOMU_ONLINE.png" group-title="TVN", TVN W DOMU
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1126
+#EXTINF:-1 tvg-id="" tvg-name=" TVN ZYCIE JAK W BAJCE" tvg-logo="https://docdog.top/logo/countries/pl/TVN_ZYCIE_JAK_W_BAJCE_ONLINE.png" group-title="TVN", TVN ZYCIE JAK W BAJCE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1127
+#EXTINF:-1 tvg-id="Dazn Event 1" tvg-name=" DAZN EVENT 1" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1128
+#EXTINF:-1 tvg-id="Dazn Event 2" tvg-name=" DAZN EVENT 2" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1129
+#EXTINF:-1 tvg-id="Dazn Event 3" tvg-name=" DAZN EVENT 3" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1130
+#EXTINF:-1 tvg-id="Dazn Event 4" tvg-name=" DAZN EVENT 4" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1131
+#EXTINF:-1 tvg-id="Dazn Event 5" tvg-name=" DAZN EVENT 5" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1132
+#EXTINF:-1 tvg-id="Dazn Event 6" tvg-name=" DAZN EVENT 6" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1133
+#EXTINF:-1 tvg-id="Dazn Event 7" tvg-name=" DAZN EVENT 7" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1134
+#EXTINF:-1 tvg-id="Dazn Event 8" tvg-name=" DAZN EVENT 8" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 8
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1135
+#EXTINF:-1 tvg-id="Dazn Event 9" tvg-name=" DAZN EVENT 9" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 9
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1136
+#EXTINF:-1 tvg-id="Dazn Event 10" tvg-name=" DAZN EVENT 10" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1137
+#EXTINF:-1 tvg-id="Dazn Event 11" tvg-name=" DAZN EVENT 11" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 11
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1138
+#EXTINF:-1 tvg-id="Dazn Event 12" tvg-name=" DAZN EVENT 12" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 12
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1139
+#EXTINF:-1 tvg-id="Dazn Event 13" tvg-name=" DAZN EVENT 13" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 13
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1140
+#EXTINF:-1 tvg-id="Dazn Event 14" tvg-name=" DAZN EVENT 14" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 14
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1141
+#EXTINF:-1 tvg-id="Dazn Event 15" tvg-name=" DAZN EVENT 15" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 15
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1142
+#EXTINF:-1 tvg-id="Dazn Event 6" tvg-name=" DAZN EVENT 16" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 16
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1143
+#EXTINF:-1 tvg-id="Dazn Event 7" tvg-name=" DAZN EVENT 17" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 17
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1144
+#EXTINF:-1 tvg-id="Dazn Event 8" tvg-name=" DAZN EVENT 18" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 18
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1145
+#EXTINF:-1 tvg-id="Dazn Event 9" tvg-name=" DAZN EVENT 19" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 19
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1146
+#EXTINF:-1 tvg-id="Dazn Event 2" tvg-name=" DAZN EVENT 20" tvg-logo="https://docdog.top/logo/countries/pl/DAZN.png" group-title="DAZN EVENT", DAZN EVENT 20
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1147
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER 1" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1148
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER 2" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1149
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER 3" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1150
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER 4" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1151
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER 5" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1152
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  6" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1153
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  7" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1154
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  8" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  8
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1155
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  9" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  9
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1156
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  10" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1157
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  11" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  11
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1158
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  12" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  12
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1159
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  13" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  13
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1160
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  14" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  14
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1161
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT EXTRA PLAYER  15" tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_EXTRA.png" group-title="EUROSPORT EXTRA PLAYER", EUROSPORT EXTRA PLAYER  15
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1162
+#EXTINF:-1 tvg-id="" tvg-name=" HBO SPORTS EPG" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO SPORTS EPG
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1163
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 01" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 01
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1164
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 02" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 02
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1165
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 03" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 03
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1166
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 04" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 04
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1167
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 05" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 05
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1168
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 06" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 06
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1169
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 07" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 07
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1170
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 08" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 08
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1171
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 09" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 09
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1172
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 10" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1173
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 11" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 11
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1174
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 12" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 12
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1175
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 13" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 13
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1176
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 14" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 14
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1177
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 15" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 15
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1178
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 16" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 16
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1179
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 17" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 17
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1180
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 18" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 18
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1181
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 19" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 19
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1182
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 20" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 20
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1183
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 21" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 21
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1184
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 22" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 22
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1185
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 23" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 23
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1186
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 24" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 24
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1187
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 25" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 25
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1188
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 26" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 26
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1189
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 27" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 27
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1190
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 28" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 28
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1191
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 29" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 29
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1192
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LIVE 30" tvg-logo="https://docdog.top/logo/countries/pl/HBO_MAX.png" group-title="HBO", HBO LIVE 30
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1193
+#EXTINF:-1 tvg-id="" tvg-name=" PPV FAME MMA" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV FAME MMA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1194
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 2 MX2" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 2 MX2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1195
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 3 ZUZEL" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 3 ZUZEL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1196
+#EXTINF:-1 tvg-id="PPV Event 4" tvg-name=" PPV EVENT 4" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1197
+#EXTINF:-1 tvg-id="PPV Event 5" tvg-name=" PPV EVENT 5" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1198
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 6" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1199
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 7" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1200
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 8" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 8
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1201
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 9" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 9
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1202
+#EXTINF:-1 tvg-id="" tvg-name=" PPV EVENT 10" tvg-logo="https://docdog.top/logo/countries/pl/PPV.png" group-title="PPV", PPV EVENT 10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1203
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 1" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1204
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 2" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1205
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 3" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1206
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 4" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1207
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 5" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1208
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 6" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1209
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 7" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1210
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 8" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 8
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1211
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 9" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 9
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1212
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 10" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1213
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 11" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 11
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1214
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 12" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 12
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1215
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 13" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 13
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1216
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 14" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 14
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1217
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 15" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 15
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1218
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 16" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 16
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1219
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 17" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 17
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1220
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 18" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 18
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1221
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 19" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 19
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1222
+#EXTINF:-1 tvg-id="" tvg-name=" VIAPLAY EVENT 20" tvg-logo="https://docdog.top/logo/countries/pl/VIAPLAY.png" group-title="VIAPLAY", VIAPLAY EVENT 20
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1223
+#EXTINF:-1 tvg-id="TV KUJAWY" tvg-name=" TV KUJAWY" tvg-logo="https://docdog.top/logo/countries/pl/TV_KUJAWY.png" group-title="REGIONAL", TV KUJAWY
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1224
+#EXTINF:-1 tvg-id="TV TORUŃ" tvg-name=" TV TORUN" tvg-logo="https://docdog.top/logo/countries/pl/TV_TORUN.png" group-title="REGIONAL", TV TORUN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1225
+#EXTINF:-1 tvg-id="TVT" tvg-name=" TVT" tvg-logo="https://docdog.top/logo/countries/pl/TVT.png" group-title="REGIONAL", TVT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1226
+#EXTINF:-1 tvg-id="TWOJA TV" tvg-name=" TWOJA TV" tvg-logo="https://docdog.top/logo/countries/pl/TWOJA_TV.png" group-title="REGIONAL", TWOJA TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1227
+#EXTINF:-1 tvg-id="" tvg-name=" BELSAT" tvg-logo="https://docdog.top/logo/countries/pl/BELSAT.png" group-title="INNE", BELSAT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1228
+#EXTINF:-1 tvg-id="" tvg-name=" TBN" tvg-logo="https://docdog.top/logo/countries/pl/TBN.png" group-title="INNE", TBN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1229
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name=" TVP POLONIA" tvg-logo="https://docdog.top/logo/countries/pl/TVP_POLONIA.png" group-title="INNE", TVP POLONIA
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1230
+#EXTINF:-1 tvg-id="TV TRWAM" tvg-name=" TV TRWAM" tvg-logo="https://docdog.top/logo/countries/pl/TV_TRWAM.png" group-title="INNE", TV TRWAM
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1231
+#EXTINF:-1 tvg-id="TVP Wilno" tvg-name=" TVP WILNO" tvg-logo="https://docdog.top/logo/countries/pl/TVP_WILNO.png" group-title="INNE", TVP WILNO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/1232
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="SURPRISE PRODUCTS",VAPE: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4895
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="ES | PRODUCTOS SORPRESA",VAPE: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4896
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="FR | PRODUITS SURPRISE",VAPE: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4897
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="PRODUKTY SURPRISE",VAPE: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4898
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="DE | SURPRISE-PRODUKTE",VAPE: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4899
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="NL | VERRASSINGSPRODUCTEN",VAPE: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4900
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="IT | PRODOTTI SORPRESA",VAPE: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4901
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="PT | PRODUTOS SURPRESA",VAPE: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4902
+#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="TR | SÜRPRİZ ÜRÜNLER",VAPE: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4903
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="VAPE",VAPE1: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4904
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="VAPE",VAPE2: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4905
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="VAPE",VAPE3: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4906
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="VAPE",VAPE4: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4907
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="VAPE",VAPE5: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4908
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="VAPE",VAPE6: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4909
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="VAPE",VAPE7: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4910
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-EN" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="VAPE",VAPE8: +44 7402 442779-EN
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4911
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="ES | VAPE",VAPE1: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4912
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="ES | VAPE",VAPE2: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4913
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="ES | VAPE",VAPE3: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4914
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="ES | VAPE",VAPE4: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4915
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="ES | VAPE",VAPE5: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4916
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="ES | VAPE",VAPE6: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4917
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="ES | VAPE",VAPE7: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4918
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-ES" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="ES | VAPE",VAPE8: +44 7402 442779-ES
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4919
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="FR | VAPE",VAPE1: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4920
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="FR | VAPE",VAPE2: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4921
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="FR | VAPE",VAPE3: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4922
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="FR | VAPE",VAPE4: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4923
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="FR | VAPE",VAPE5: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4924
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="FR | VAPE",VAPE6: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4925
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="FR | VAPE",VAPE7: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4926
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-FR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="FR | VAPE",VAPE8: +44 7402 442779-FR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4927
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="VAPE",VAPE1: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4928
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="VAPE",VAPE2: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4929
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="VAPE",VAPE3: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4930
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="VAPE",VAPE4: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4931
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="VAPE",VAPE5: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4932
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="VAPE",VAPE6: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4933
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="VAPE",VAPE7: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4934
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-PL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="VAPE",VAPE8: +44 7402 442779-PL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4935
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="NL | VAPE",VAPE1: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4936
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="NL | VAPE",VAPE2: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4937
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="NL | VAPE",VAPE3: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4938
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="NL | VAPE",VAPE4: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4939
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="NL | VAPE",VAPE5: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4940
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="NL | VAPE",VAPE6: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4941
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="NL | VAPE",VAPE7: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4942
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-NL" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="NL | VAPE",VAPE8: +44 7402 442779-NL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4943
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="DE | VAPE",VAPE1: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4944
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="DE | VAPE",VAPE2: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4945
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="DE | VAPE",VAPE3: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4946
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="DE | VAPE",VAPE4: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4947
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="DE | VAPE",VAPE5: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4948
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="DE | VAPE",VAPE6: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4949
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="DE | VAPE",VAPE7: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4950
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-DE" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="DE | VAPE",VAPE8: +44 7402 442779-DE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4951
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="PT | VAPE",VAPE1: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4952
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="PT | VAPE",VAPE2: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4953
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="PT | VAPE",VAPE3: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4954
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="PT | VAPE",VAPE4: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4955
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="PT | VAPE",VAPE5: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4956
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="PT | VAPE",VAPE6: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4957
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="PT | VAPE",VAPE7: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4958
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-PT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="PT | VAPE",VAPE8: +44 7402 442779-PT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4959
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="IT | VAPE",VAPE1: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4960
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="IT | VAPE",VAPE2: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4961
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="IT | VAPE",VAPE3: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4962
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="IT | VAPE",VAPE4: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4963
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="IT | VAPE",VAPE5: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4964
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="IT | VAPE",VAPE6: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4965
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="IT | VAPE",VAPE7: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4966
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-IT" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="IT | VAPE",VAPE8: +44 7402 442779-IT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4967
+#EXTINF:-1 tvg-id="" tvg-name="VAPE1: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE1.png" group-title="TR | VAPE",VAPE1: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4968
+#EXTINF:-1 tvg-id="" tvg-name="VAPE2: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE2.png" group-title="TR | VAPE",VAPE2: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4969
+#EXTINF:-1 tvg-id="" tvg-name="VAPE3: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE3.png" group-title="TR | VAPE",VAPE3: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4970
+#EXTINF:-1 tvg-id="" tvg-name="VAPE4: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE4.png" group-title="TR | VAPE",VAPE4: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4971
+#EXTINF:-1 tvg-id="" tvg-name="VAPE5: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE5.png" group-title="TR | VAPE",VAPE5: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4972
+#EXTINF:-1 tvg-id="" tvg-name="VAPE6: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE6.png" group-title="TR | VAPE",VAPE6: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4973
+#EXTINF:-1 tvg-id="" tvg-name="VAPE7: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE7.png" group-title="TR | VAPE",VAPE7: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4974
+#EXTINF:-1 tvg-id="" tvg-name="VAPE8: +44 7402 442779-TR" tvg-logo="https://docdog.top/logo/countries/ads/VAPE8.png" group-title="TR | VAPE",VAPE8: +44 7402 442779-TR
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/4975
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Hustler HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/608
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Blue Hustler
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/609
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Red HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Vivid Red HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/610
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Dorcel TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/611
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Dorcel XXX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/612
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Babes TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Babes TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/613
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Russian Night" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Russian Night
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/614
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Max" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: XY Max
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/615
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Anal" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Anal
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/616
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Asian" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Asian
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/617
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Big Ass" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Big Ass
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/618
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Big Dick" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Big Dick
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/619
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Big Tits" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Big Tits
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/620
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Blonde" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Blonde
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/621
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Blowjob" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Blowjob
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/622
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Brunette" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Brunette
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/623
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Compilation" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Compilation
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/624
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Cuckold" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Cuckold
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/625
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Fetish" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Fetish
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/626
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Gangbang" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Gangbang
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/627
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/628
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Hardcore" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Hardcore
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/629
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Interracial" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Interracial
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/630
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Latina" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Latina
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/631
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Lesbian" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Lesbian
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/632
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Live Cams" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Live Cams
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/633
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV MILF" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV MILF
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/634
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Pornstar" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Pornstar
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/635
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV POV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV POV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/636
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Rough" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Rough
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/637
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Russian" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Russian
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/638
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Teen" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Teen
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/639
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Threesome" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Threesome
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/640
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MCTV Woman" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: MCTV Woman
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/641
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Extasy - Leo TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Extasy - Leo TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/642
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Day with a Pornstar" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Day with a Pornstar
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/643
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DDF Network" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: DDF Network
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/644
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Daughter Swap" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Daughter Swap
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/645
+#EXTINF:-1 tvg-id="" tvg-name="XXX: True Amateurs" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: True Amateurs
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/646
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Public Agent" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Public Agent
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/647
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Family Hookups" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Family Hookups
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/648
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Family Strokes" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Family Strokes
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/649
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Taxi" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Fake Taxi
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/650
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Little Caprice" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Little Caprice
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/651
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Mia Khalifa" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Mia Khalifa
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/652
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: ALBA 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/653
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/654
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/655
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/656
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/657
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX HD2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/658
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bangbros" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Bangbros
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/659
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blacked" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Blacked
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/660
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Blue Hustler
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/661
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Brazzers
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/662
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: DORCEL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/663
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: ERO X
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/664
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Evil angel" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Evil angel
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/665
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Exxxotica TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Exxxotica TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/666
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE AGENT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: FAKE AGENT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/667
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Gay Adult TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Gay Adult TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/668
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover Europe" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: French Lover Europe
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/669
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY MAX HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: GAY MAX HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/670
+#EXTINF:-1 tvg-id="" tvg-name="XXX: My Pervy Family" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: My Pervy Family
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/671
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Neo Gay 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Neo Gay 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/672
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Passie XXX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/673
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Erotic 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Pink Erotic 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/674
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PRIVATE
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/675
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Prive TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Prive TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/676
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PureTaboo" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PureTaboo
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/677
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDLIGHT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/678
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Secret Circle TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Secret Circle TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/679
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTO SENSO" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: SEXTO SENSO
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/680
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Taboo" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Taboo
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/681
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VividRed XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: VividRed XXX
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/682
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: 21 Sextury
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/683
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cum 4k UHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Cum 4k UHD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/684
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Redlight HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Redlight HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/685
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Quickies" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Penthouse Quickies
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/686
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Gold" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Penthouse Gold
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/687
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Super One HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Super One HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/688
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: XY Plus
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/689
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 5" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/690
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Passion" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Penthouse Passion
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/691
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Sextreme
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/692
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: XXL
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/693
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dusk" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Dusk
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/694
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Jenny Live [Not 24/7]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Miami TV Jenny Live [Not 24/7]
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/695
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Xmas" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Xmas
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/696
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Anal" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Anal
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/697
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Asian" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Asian
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/698
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Babysiter" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Babysiter
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/699
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Bigcock" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Bigcock
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/700
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Bigtits" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Bigtits
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/701
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Bisexual" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Bisexual
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/702
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Blond" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Blond
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/703
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Blow" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Blow
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/704
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Cartoon" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Cartoon
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/705
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Casting" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Casting
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/706
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Creampie" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Creampie
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/707
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Crosplay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Crosplay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/708
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Cuckold" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Cuckold
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/709
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Double Penetration" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Double Penetration
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/710
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Threesome" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Threesome
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/711
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Fetish" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Fetish
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/712
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Fisting" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Fisting
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/713
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Prisoner" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Prisoner
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/714
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-German" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-German
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/715
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Hardcore" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Hardcore
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/716
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Hd Porno" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Hd Porno
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/717
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Italy" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Italy
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/718
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Classic" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Classic
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/719
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Massage" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Massage
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/720
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Masturbation" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Masturbation
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/721
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Midget" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Midget
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/722
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Milf" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Milf
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/723
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-My Wife" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-My Wife
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/724
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Naughty" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Naughty
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/725
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Nurse" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Nurse
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/726
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Orgasm" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Orgasm
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/727
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Outdoor" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Outdoor
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/728
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Police Officer" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Police Officer
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/729
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Reality" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Reality
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/730
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Romance" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Romance
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/731
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Russia" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Russia
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/732
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-School" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-School
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/733
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Student" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Student
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/734
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Swinger" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Swinger
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/735
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub-Teenie" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub-Teenie
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/736
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Adriana Chechik" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Adriana Chechik
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/737
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Adriana Chechik Little Anal" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Adriana Chechik Little Anal
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/738
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Adria Rae" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Adria Rae
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/739
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Brandi Love" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Brandi Love
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/740
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Canela Skin" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Canela Skin
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/741
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 24 Adriana Chechik" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 24 Adriana Chechik
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/742
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 24 Alexis Crystal" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 24 Alexis Crystal
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/743
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 24 Alex Adams" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 24 Alex Adams
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/744
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 24 Alexis Fawx" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 24 Alexis Fawx
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/745
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 24 Alexis Texas" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 24 Alexis Texas
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/746
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Armind Rizzo Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Armind Rizzo Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/747
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Atglas Gran Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Atglas Gran Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/748
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Dante Colle Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Dante Colle Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/749
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Deangelo Jackson Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Deangelo Jackson Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/750
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Jack Hunter Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Jack Hunter Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/751
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Max Konnor Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Max Konnor Gay
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/752
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Kinky Family" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Kinky Family
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/753
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Letsdoeit" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Letsdoeit
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/754
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Men" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Men
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/755
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Miss Ling Ling" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Miss Ling Ling
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/756
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Mofos" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Mofos
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/757
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Mofos 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Mofos 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/758
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Mofos 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Mofos 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/759
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Moms Sex Teach Pron" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Moms Sex Teach Pron
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/760
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels Monster Of Cock" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels Monster Of Cock
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/761
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Channels My Family Pies" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Channels My Family Pies
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/762
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Nivole Aniston" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Nivole Aniston
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/763
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Nicoletta Shea" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Nicoletta Shea
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/764
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Rae Lil Black" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Rae Lil Black
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/765
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Ricky Johnson" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Ricky Johnson
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/766
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Riley Reid" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Riley Reid
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/767
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Sharon Lee" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Sharon Lee
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/768
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PHub Stars 23 Skyler Vox" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub Stars 23 Skyler Vox
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/769
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cum 4k UHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Cum 4k UHD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/770
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Daughter Swap" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Daughter Swap
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/771
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Day with a Pornstar" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Day with a Pornstar
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/772
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE AGENT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: FAKE AGENT
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/773
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Taxi" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Fake Taxi
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/774
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Family Hookups" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Family Hookups
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/775
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Family Strokes" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Family Strokes
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/776
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover Europe" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: French Lover Europe
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/777
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Gay Adult TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Gay Adult TV
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/778
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY MAX HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: GAY MAX HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/779
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: HUSTLER HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/780
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Little Caprice" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Little Caprice
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/781
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Mia Khalifa" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Mia Khalifa
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/782
+#EXTINF:-1 tvg-id="" tvg-name="XXX: My Pervy Family" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: My Pervy Family
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/783
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Neo Gay 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Neo Gay 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/784
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Public Agent" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Public Agent
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/785
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/786
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/787
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/788
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/789
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 5" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/790
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/791
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX HD1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/792
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Alba XXX HD2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/793
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bangbros" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Bangbros
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/794
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blacked" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Blacked
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/795
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: BLUE HUSTLER
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/796
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Brazzers
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/797
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Passion HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/798
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pure Babes HD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: Pure Babes HD
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/799
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 1
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/800
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 2
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/801
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 3
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/802
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 4
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/803
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 5" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 5
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/804
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 6
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/805
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 7" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 7
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/806
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 8" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 8
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/807
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 9" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 9
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/808
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDBOX ADULTS 10" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: REDBOX ADULTS 10
+http://81.31.194.66:8080/pro4521768126292/c15ffa86623b/809
